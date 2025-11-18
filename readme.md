@@ -9,3 +9,9 @@ Bem vindo ao repositorio! este é um projeto de estudos para demostrar uso basic
 - Markdown
 
 ## ESTRUTURA DO PROJETO
+
+### ADICIONANDO CONTEUDO REMOTAMENTE
+
+----------
+
+## Como trabalhar com o git
